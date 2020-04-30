@@ -1,0 +1,20 @@
+
+/*Start framework*/
+
+.container
+{
+    width: 1000px;
+    margin: auto;
+}
+
+.f-left{float: left}
+
+.f-right{float: right}
+
+a{
+	text-decoration: none;
+    color: #fff
+}
+
+.text-aligin-center{text-align: center;}
+/*End framework*/
